@@ -6,10 +6,10 @@ AQUA-SLAM is an underwater SLAM system that integrates a Doppler Velocity Log (D
 
 ## 3 Demo
 
-### 3.1 Comparison on HalfTank Easy sequence
+### 3.1 Demo on HalfTank Easy sequence
 ![HE](Images/he.gif)
 
-### 3.2 Comparison on WholeTank Hard sequence
+### 3.2 Demo on WholeTank Hard sequence
 ![WH](Images/wh.gif)
 ### 3.3 Offshore Validation
 ![Offshore](Images/offshore.gif)
